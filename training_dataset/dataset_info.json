@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "Titles": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "First Sentences": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Predictions": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Scores": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "Title Length": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Sentence Length": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
